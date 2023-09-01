@@ -10,12 +10,12 @@ Similarly, you can view your income.
 A series of carefully conducted test cases, as well as bug reports, 
 UI/UX and functional tests that include screenshots were made.
 
-## Project Kapu$ta include:
-- Functional test
-- Test Cases
+## Changelog
+1.0
+- Test Cases, functional tests (authorization, rejestration/log in, validation, heading, main page, subpage reports)
 - Bug Reports
-- UI Test
+- UI Tests
 
-### Sources
+## Sources
 [Kapu$ta app] (https://kapusta-qa.netlify.app/)
 [Specification] (https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit#gid=0)
