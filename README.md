@@ -1,4 +1,5 @@
-# Kapu$ta
+# Kapu$ta main project
+https://docs.google.com/spreadsheets/d/1O6aBymwcclMHXZrZZpwSW3KXe7AOHaR24Dz3V3eEQ0I/edit?usp=sharing
 
 ## What is it?
 Kapu$ta is a financial management application. 
@@ -14,9 +15,6 @@ UI/UX and functional tests that include screenshots were made.
 - Test Cases
 - Bug Reports
 - UI Test
-
-# Main Project
-https://docs.google.com/spreadsheets/d/1O6aBymwcclMHXZrZZpwSW3KXe7AOHaR24Dz3V3eEQ0I/edit?usp=sharing
 
 ### Sources
 [Kapu$ta app] (https://kapusta-qa.netlify.app/)
