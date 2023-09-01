@@ -18,4 +18,5 @@ UI/UX and functional tests that include screenshots were made.
 
 ## Sources
 [Kapu$ta app] (https://kapusta-qa.netlify.app/)
+
 [Specification] (https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit#gid=0)
